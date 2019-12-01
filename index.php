@@ -3,7 +3,7 @@
 
 
 $var1 = 2;
-
+                  
 $var2 = 8.5;
 
 $var3 = "PHP Course";
